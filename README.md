@@ -2,6 +2,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [Getting Started with Simple Web Application](#getting-started-with-simple-web-application)
+- [TEST.md](./test.md)
 
 # Getting Started with Simple Web Application
 
